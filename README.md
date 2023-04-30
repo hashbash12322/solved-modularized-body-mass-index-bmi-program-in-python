@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-modularized-body-mass-index-bmi-program-in-python
+<br>
+Write a modularized Body Mass Index (BMI) Program which will calculate the BMI of a team player. The formula to calculate the BMI is as follows:BMI = Weight *703 / Height^2Note: Height^2 means, the value of Height raised to the power of 2.Your program should utilize the following functions:A method to obtain the weight of a playerA method to obtain the height of a playerA method to calculate the BMI of a playerA method to display the height, weight, and calculated BMI
